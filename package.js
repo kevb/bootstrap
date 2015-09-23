@@ -1,8 +1,8 @@
 Package.describe({
   summary: 'Accounts Templates styled for Twitter Bootstrap.',
   version: '1.12.3',
-  name: 'useraccounts:bootstrap',
-  git: 'https://github.com/meteor-useraccounts/bootstrap.git',
+  name: 'kevbuk:useraccounts-bootstrap',
+  git: 'https://github.com/kevb/bootstrap.git',
 });
 
 Package.on_use(function(api, where) {
